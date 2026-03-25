@@ -34,6 +34,10 @@
   <li>🎯 Goal: Become a <b>Professional Full Stack Developer</b></li>
 </ul>
 
+
+
+
+
 ## 🛠 Tech Stack  
 
 <p align="center">
