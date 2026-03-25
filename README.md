@@ -1,20 +1,29 @@
+<p align="center">
+  <img src="https://chat.openai.com/mnt/data/b80cf4dc-4c24-415b-b23c-8b33e7861f73.png" alt="banner" width="100%" />
+</p>
+
 <h1 align="center">✨ Hi 👋, I'm Vinoth ✨</h1>
 
 <h3 align="center">💻 Python Developer | 🌐 Full Stack Developer | 🚀 Fresher</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Python+Developer;Full+Stack+Learner;Building+Real+Projects;Open+to+Opportunities" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Vinoth+👋;Python+Developer+💻;Full+Stack+Developer+🌐;Building+Real+World+Projects+🚀;Open+to+Opportunities+💼" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0066FF&height=120&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Vinoth&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Python%20Developer%20|%20Full%20Stack%20Developer&descAlignY=55&descAlign=50"/>
 </p>
-
 ---
 
 ## 🌟 About Me  
 
-<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:0066FF&height=80&section=header&text=Full%20Stack%20Development&fontSize=30&fontColor=ffffff&animation=fadeIn"/>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
+</p>
 
 - 🎓 Fresher passionate about **Software Development**  
 - 💻 Skilled in **Python, SQL, HTML, CSS**  
