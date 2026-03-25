@@ -17,11 +17,6 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:0066FF&height=80&section=header&text=Full%20Stack%20Development&fontSize=30&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
-<!-- Original Coding GIF -->
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.3);" />
-</p>
-
 <!-- Full Stack Development GIF -->
 <p align="center">
   <img src="https://your-hosted-link/fullstack.gif" width="100%" style="border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.3);" />
