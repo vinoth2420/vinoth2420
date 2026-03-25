@@ -1,6 +1,6 @@
 <h1 align="center">✨ Hi 👋, I'm Vinoth ✨</h1>
 
-<h3 align="center">💻 Python Developer | 🌐 Aspiring Full Stack Developer | 🚀 Fresher</h3>
+<h3 align="center">💻 Python Developer | 🌐 Full Stack Developer | 🚀 Fresher</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Python+Developer;Full+Stack+Learner;Building+Real+Projects;Open+to+Opportunities" />
@@ -14,14 +14,13 @@
 
 ## 🌟 About Me  
 
-<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
 
 - 🎓 Fresher passionate about **Software Development**  
 - 💻 Skilled in **Python, SQL, HTML, CSS**  
 - 🌱 Learning **Full Stack Development (Django/Flask)**  
 - 🔨 Building real-world projects  
-- 🎯 Goal: Become a **Professional Full Stack Developer**  
-- ⚡ Love solving real-world problems  
+- 🎯 Goal: Become a **Professional Full Stack Developer**   
 
 ---
 
@@ -82,14 +81,6 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=vinoth2420&theme=tokyonight" />
-</p>
-
----
-
-## 🐍 Contribution Snake Animation  
-
-<p align="center">
-  <img src="https://github.com/vinoth2420/vinoth2420/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
