@@ -1,15 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Hi%20I'm%20Vinoth%20👋&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Python%20Developer%20|%20Full%20Stack%20Developer&descAlignY=60&descAlign=50"/>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Building+Real+World+Projects+🚀;Django+%7C+Flask+Developer;SQL+%7C+Backend+Development;Open+to+Opportunities+💼" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
-</p>
-
 <h1 align="center">✨ Hi 👋, I'm Vinoth ✨</h1>
 
 <h3 align="center">💻 Python Developer | 🌐 Full Stack Developer | 🚀 Fresher</h3>
@@ -29,8 +17,14 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:0066FF&height=80&section=header&text=Full%20Stack%20Development&fontSize=30&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
+<!-- Original Coding GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.3);" />
+</p>
+
+<!-- Full Stack Development GIF -->
+<p align="center">
+  <img src="https://your-hosted-link/fullstack.gif" width="100%" style="border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.3);" />
 </p>
 
 - 🎓 Fresher passionate about **Software Development**  
