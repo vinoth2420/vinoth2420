@@ -34,11 +34,11 @@
       <li>🔨 Building real-world projects</li>
       <li>🎯 Goal: Become a <b>Professional Full Stack Developer</b></li>
     </ul>
+    <img src="https://camo.githubusercontent.com/ec855ab535527db010006f6ec3e3b844e4aa61bba1f79af88f49a082400cb170/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65382f66342f35332f65386634353334363961336563393765636433353464663436356437333931332e676966" width="300px" style="border-radius:12px; box-shadow:0 4px 15px rgba(0,0,0,0.3);" />
   </div>
 
   <!-- Right Side: GIF -->
   <div style="flex: 0 0 auto; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 15px rgba(0,0,0,0.3);">
-    <img src="https://camo.githubusercontent.com/ec855ab535527db010006f6ec3e3b844e4aa61bba1f79af88f49a082400cb170/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65382f66342f35332f65386634353334363961336563393765636433353464663436356437333931332e676966" width="300px" style="border-radius:12px; box-shadow:0 4px 15px rgba(0,0,0,0.3);" />
   </div>
 
 </div>
