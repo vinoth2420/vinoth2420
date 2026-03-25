@@ -21,21 +21,27 @@
     <img src="https://camo.githubusercontent.com/b284ec62c0726ac1866c9487e42bc1b3b463f673e21c4c8cf27cb08b746b5967/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a3637392f312a797730546e686541474e2d4c506e654461546c6178772e676966" width="100%" style="vertical-align:middle;" />
   </div>
 </p>
+<!-- About Me Section with Right-Side GIF -->
+<div style="display:flex; align-items:center; justify-content:space-between; gap:20px;">
+  
+  <!-- Left Side: Text -->
+  <div style="flex:1; font-size:16px; line-height:1.6;">
+    <h2>🌟 About Me</h2>
+    <ul>
+      <li>🎓 Fresher passionate about <b>Software Development</b></li>
+      <li>💻 Skilled in <b>Python, SQL, HTML, CSS</b></li>
+      <li>🌱 Learning <b>Full Stack Development (Django/Flask)</b></li>
+      <li>🔨 Building real-world projects</li>
+      <li>🎯 Goal: Become a <b>Professional Full Stack Developer</b></li>
+    </ul>
+  </div>
 
-<p align="center">
-  <div style="display:inline-block; border-radius:12px; overflow:hidden; box-shadow:0 4px 15px rgba(0,0,0,0.3);">
+  <!-- Right Side: GIF -->
+  <div style="flex:0 0 auto; border-radius:12px; overflow:hidden; box-shadow:0 4px 15px rgba(0,0,0,0.3);">
     <img src="https://camo.githubusercontent.com/ec855ab535527db010006f6ec3e3b844e4aa61bba1f79af88f49a082400cb170/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65382f66342f35332f65386634353334363961336563393765636433353464663436356437333931332e676966" width="300px" style="vertical-align:middle;" />
   </div>
-</p>
 
-
-- 🎓 Fresher passionate about **Software Development**  
-- 💻 Skilled in **Python, SQL, HTML, CSS**  
-- 🌱 Learning **Full Stack Development (Django/Flask)**  
-- 🔨 Building real-world projects  
-- 🎯 Goal: Become a **Professional Full Stack Developer**   
-
----
+</div>
 
 ## 🛠 Tech Stack  
 
